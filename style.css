@@ -1,7 +1,12 @@
 p{
     font-family: Arial;
 }
+
 #titulo-principal{
-color: blue;
+    color: blue;
 }
-    
+
+.destaque{
+    background-color: yellow;
+}
+
