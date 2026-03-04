@@ -25,6 +25,11 @@ button:hover{
 .paragrafo{
     color: purple;
 }
+
 p::first-letter{
     font-size: 30px;
+}
+
+li:first-child{
+    font-weight: bold;
 }
